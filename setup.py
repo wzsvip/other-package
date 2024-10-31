@@ -7,7 +7,7 @@ setup(
     packages=find_packages(),
     version='1.0.1',
     description="Test",
-    install_requires=["my-package @ git+https://github.com/neradha/my-package.git"],
+    install_requires=["my-package @ git+https://github.com/wzsvip/other-package.git"],
     author="",
     license="",
 )
