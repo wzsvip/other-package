@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 setup(
-    name="my-other-package",
+    name="other-package",
     packages=find_packages(),
     version='1.0.1',
     description="Test",
